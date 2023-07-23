@@ -1,0 +1,52 @@
+header {
+    background-color: #03157a;
+    color: white;
+    height: 212.17px;
+}
+.cabecalho {
+    padding: 0 20px;
+    background-image: linear-gradient(#03157a,#37cdf7);
+    color: white;
+    display: flex;
+     align-items: center;
+    justify-content:space-between;
+}
+
+.titulo-1 {
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    
+}
+
+.titulo-2 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+
+}
+.cabecalho-menu{
+    height: inherit;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+}
+
+.logo-tiradentes{
+    padding: 0 20px;
+    width: 180px;
+    height: 160px;
+}
+
